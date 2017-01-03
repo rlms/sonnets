@@ -5,18 +5,31 @@ This repository contains some code to automatically generate sonnets (and some
 related code to do various other things). One of the sonnets it has written:
 
 incessantly inhabited the kite
+
 the dumb mumbles remembered thereabouts
+
 furtively fell the flammable delight
+
 i lopped the unimaginable shouts
+
 the goddess is like the northeastern pan
+
 the wildest eucalyptus caved afloat
+
 they bounded the unfathomable clan
+
 the yellowish despair is like the goat
+
 the jagged window diminished anymore
+
 and infinitely overwhelmed and bowed
+
 fitfully scattered the obsessive drawer
+
 he camped the unimaginable crowd
+
 the squeaky filament is like the rain
+
 as discontented as the meaty reign
 
 Running the program
